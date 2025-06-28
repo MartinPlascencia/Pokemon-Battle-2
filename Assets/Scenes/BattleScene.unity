@@ -2152,7 +2152,7 @@ MonoBehaviour:
           m_StringArgument: Idle
           m_BoolArgument: 0
         m_CallState: 2
-  _winAnimationName: Attack1
+  _winAnimationName: Attack
   _winSoundName: eeve_appear
 --- !u!1 &1573473816
 GameObject:
